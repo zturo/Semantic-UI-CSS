@@ -35030,10 +35030,11 @@ a.ui.nag {
   box-shadow: none;
 }
 
-[data-tooltip][data-inverted]:after .header {
+/* @parcel/transformer-css: Unexpected token Delim('.') */
+/* [data-tooltip][data-inverted]:after .header {
   background-color: none;
   color: #FFFFFF;
-}
+} */
 
 /*--------------
     Position
